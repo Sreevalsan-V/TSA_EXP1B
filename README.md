@@ -1,6 +1,6 @@
 ## Devloped by: Sreevalsan V
 ## Register Number: 212223240158
-##  Date: 25-02-2025
+##  Date: 2-03-2025
 
 # Ex.No: 1B                CONVERSION OF NON STATIONARY TO STATIONARY DATA
 
